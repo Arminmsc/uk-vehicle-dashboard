@@ -3,7 +3,7 @@
 An interactive data dashboard built with **Next.js (TypeScript)** and **Recharts** to analyse UK vehicle registration trends using the official GOV dataset (VEH0120).
 
 ---
-
+🔗 **Live Demo:** https://uk-vehicle-dashboard.vercel.app
 ## Overview
 
 This dashboard allows dynamic exploration of quarterly UK vehicle registrations by:
